@@ -1,3 +1,4 @@
+#Gomez Lopez Sergio
 class armamento:
     def __init__ (self, daño, tipo, calidad):
         self.daño = daño
